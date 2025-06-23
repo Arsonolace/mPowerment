@@ -1,3 +1,9 @@
+# mPowerment 🤖✨
+
+**mPowerment** is a motivational Discord bot designed to uplift users with quick, inspiring quotes, reminders, and short mental challenges—all within the comfort of your Discord server.
+
+---
+
 ## 🌟 Features
 
 - 🧠 **Motivational Quotes** – Receive encouraging phrases and positive affirmations throughout the day.
